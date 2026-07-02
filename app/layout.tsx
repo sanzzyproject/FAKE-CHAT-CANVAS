@@ -2,8 +2,8 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'My Google AI Studio App',
-  description: 'My Google AI Studio App',
+  title: 'Fake chat generator by SANN404 FORUM GROUP',
+  description: 'fake chat generator lengkap version',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
